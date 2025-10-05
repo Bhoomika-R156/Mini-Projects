@@ -42,3 +42,13 @@ These projects were built for **learning, experimentation, and portfolio develop
 1. **Clone this repository**
    ```bash
    git clone https://github.com/yourusername/mini-projects.git
+
+---
+## 💡 Purpose
+
+This repository serves as a **learning hub** to:
+
+- 🧩 **Strengthen core programming skills**  
+- 💭 **Understand real-world problem solving**  
+- 💼 **Build a solid portfolio for internships and job applications**
+
