@@ -1,4 +1,4 @@
-# 🌟 Mini Projects Collection
+#  Mini Projects Collection
 
 Welcome to my **Mini Projects Repository**! 🚀  
 This repository is a collection of small yet powerful projects that helped me explore, learn, and practice various **technologies, programming concepts, and problem-solving skills**.
