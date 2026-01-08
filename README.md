@@ -23,7 +23,6 @@ These projects were built for **learning, experimentation, and portfolio develop
 | 📊 Data Visualizer | Plot and visualize data interactively. | Python, Matplotlib |
 | 🧠 Quiz App | Test your knowledge with multiple-choice questions. | HTML, CSS, JS |
 
-> *(You can update this table as you add more projects)*
 
 ---
 
